@@ -1,6 +1,7 @@
 # baseURL = "https://your_domain.com/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
+theme = "lynx"
 
 title = "Félix Desjardins"
 # copyright = "Copy, _right?_ :thinking_face:"
